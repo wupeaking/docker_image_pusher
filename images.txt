@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis
 kindest/node:v1.32.3
+ubuntu:22.04
+luckfoxtech/luckfox_pico:1.0
