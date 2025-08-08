@@ -2,3 +2,4 @@ ubuntu:20.04
 ubuntu:22.04
 luckfoxtech/luckfox_pico:1.0
 adguard/adguardhome
+postgis/postgis:17-3.5
